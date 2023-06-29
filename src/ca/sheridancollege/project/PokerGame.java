@@ -127,7 +127,7 @@ public class PokerGame extends Game {
   private void initializeDeck() {
     deck.getCards().clear();
 
-    String[] suits = { "♢", "♧", "♡", "♤" };
+    String[] suits = { "Diamonds", "Clubs", "Hearts", "Spades" };
     String[] ranks = {
       "2",
       "3",
