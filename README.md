@@ -19,5 +19,5 @@ This is the Group Assignment for SYST17796 Fundamentals of Software Design and D
 
 ## ❤ Demo
 <p align="center">
-  <img src="https://github.com/Jay-Sung-Lim/SYST17796-Deliverable1/assets/107202611/de4f1ddb-aae1-4cdb-bc54-e9ace9b09cb5">
+  <img src="https://github.com/Jay-Sung-Lim/SYST17796-Deliverable1/assets/107202611/313ccf70-7379-46d6-a6c2-d62ed22e3eaf">
 </p>
