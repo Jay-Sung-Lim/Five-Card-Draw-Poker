@@ -124,28 +124,12 @@ public class PokerGame extends Game {
     System.out.println("The winner is " + winner.getName() + "!");
   }
 
+
   private void initializeDeck() {
     deck.getCards().clear();
 
-    String[] suits = { "Diamonds", "Clubs", "Hearts", "Spades" };
-    String[] ranks = {
-      "2",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "Jack",
-      "Queen",
-      "King",
-      "Ace",
-    };
-
-    for (String suit : suits) {
-      for (String rank : ranks) {
+    for (Card.Suits suit:Card.Suits.values()) {
+      for (Card.Ranks rank:Card.Ranks.values()) {
         deck.getCards().add(new PokerCard(rank, suit));
       }
     }

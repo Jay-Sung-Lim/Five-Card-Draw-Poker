@@ -9,20 +9,42 @@
 package ca.sheridancollege.project;
 
 public class Card {
-
-  private final String rank;
-  private final String suit;
-
-  public Card(String rank, String suit) {
+//Added comment to branch
+  public enum Suits
+  {
+      DIAMONDS,
+      CLUBS,
+      HEARTS,
+      SPADES,
+  }
+  public enum Ranks{
+      ACE,
+      TWO, 
+      THREE,
+      FOUR,
+      FIVE, 
+      SIX,
+      SEVEN, 
+      EIGHT,
+      NINE,
+      TEN,
+      JACK,
+      QUEEN,
+      KING,
+  }
+  
+  private final Ranks rank;
+  private final Suits suit;
+  public Card(Ranks rank, Suits suit) {
     this.rank = rank;
     this.suit = suit;
   }
 
-  public String getRank() {
+  public Ranks getRank() {
     return rank;
   }
 
-  public String getSuit() {
+  public Suits getSuit() {
     return suit;
   }
 
