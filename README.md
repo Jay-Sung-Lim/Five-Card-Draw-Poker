@@ -14,10 +14,10 @@ This is the Group Assignment for SYST17796 Fundamentals of Software Design and D
 
 ## ✅ Class Diagram
 <p align="center">
-  <img src="https://github.com/caravanne/MidTermPartC/assets/107202611/e6d52f15-404e-47c6-acb9-450d515fa6b9">
+  <img src="https://github.com/Jay-Sung-Lim/SYST17796-Deliverable1/assets/107202611/a6beb389-c6f0-4a9d-b698-117bf9588fe3">
 </p>
 
 ## ❤ Demo
 <p align="center">
-  <img src="https://github.com/Jay-Sung-Lim/SYST17796-Deliverable1/assets/107202611/313ccf70-7379-46d6-a6c2-d62ed22e3eaf">
+  <img src="https://github.com/Jay-Sung-Lim/SYST17796-Deliverable1/assets/107202611/da1b83d8-0830-4193-99b4-cae920b026b0">
 </p>
