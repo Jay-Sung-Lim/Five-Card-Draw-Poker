@@ -25,7 +25,7 @@
 
 ## ✅ Class Diagram
 <div align="center">
-  <img src="https://github.com/Jay-Sung-Lim/SYST17796-Deliverable1/assets/107202611/a6beb389-c6f0-4a9d-b698-117bf9588fe3">
+  <img src="https://github.com/Jay-Sung-Lim/SYST17796-Deliverable1/assets/107202611/561123d8-e3de-48b3-9971-9c6e7fe7a764">
 </div>
 
 ## ❤ Demo
