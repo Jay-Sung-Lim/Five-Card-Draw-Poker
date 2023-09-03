@@ -1,4 +1,4 @@
-## SYST17796 Deliverable
+## 👋 Introduction
 &nbsp;This project is a Five-Card Draw Poker game. In Five-Card Draw Poker, each player is dealt five cards, and they have the option to exchange some of their cards to improve their hand. After the exchange, players evaluate their hands based on predefined hand rankings to determine the winner. The game will support 2 to 4 players and will be played in a single round.
 
 <ul>
@@ -15,15 +15,7 @@
 - [@Ly Trong Nhân](https://github.com/nhanbrad123)
 - [@Mykyta Varnikov](https://github.com/caravanne)
 
-## 🛠 Development Tools
-<ul>
-  <li>Programming Language: Java</li>
-  <li>IDE: NetBeans</li>
-  <li>UML Diagramming: Visual Paradigm</li>
-  <li>Version Control: Git & Github</li>
-</ul>
-
-## ✅ Class Diagram
+## ✅ UML Diagrams
 <div align="center">
   <img src="https://github.com/Jay-Sung-Lim/SYST17796-Deliverable1/assets/107202611/561123d8-e3de-48b3-9971-9c6e7fe7a764">
 </div>
