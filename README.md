@@ -15,9 +15,9 @@
 - [@Ly Trong Nhân](https://github.com/nhanbrad123)
 - [@Mykyta Varnikov](https://github.com/caravanne)
 
-## ✅ UML Diagrams
+## ✅ UML Class Diagrams
 <div align="center">
-  <img src="https://github.com/Jay-Sung-Lim/SYST17796-Deliverable1/assets/107202611/561123d8-e3de-48b3-9971-9c6e7fe7a764">
+  <img src="https://github.com/Jay-Sung-Lim/Five-Card-Draw-Poker/assets/107202611/c576476d-59ed-4276-a815-c2059764cfe3">
 </div>
 
 ## ❤ Demo
